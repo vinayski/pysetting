@@ -1,0 +1,54 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (projects)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/conda3/envs/projects/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1409754290" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/python-skeletons" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (fipy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/apps/conda/envs/fipy/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1803583278" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/python-skeletons" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/projects/fipy" />
+    </jdk>
+  </component>
+</application>
