@@ -1,12 +1,278 @@
 <application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>pubk</entry>
+        <entry>Notif</entry>
+        <entry>addr_id</entry>
+        <entry>address_id</entry>
+        <entry>main</entry>
+        <entry>visit_main</entry>
+        <entry>visit</entry>
+        <entry>debuf</entry>
+        <entry>debug</entry>
+        <entry>log</entry>
+        <entry>session</entry>
+      </history-search>
+      <history-cmd>
+        <entry>1</entry>
+        <entry>w!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/prj/aim410/local.py" timestamp="1593115641763">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593120002546">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/tproxy/tproxy.py" timestamp="1592863822423">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/prj/tproxy/Dockerfile" timestamp="1592871915392">
+        <mark key="[" line="2" column="189" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="59" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="/Python Console" timestamp="1593119082742">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1589559339941">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/aaca/aaca/__main__.py" timestamp="1588382264503">
+        <mark key="a" line="19" column="0" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/prj/proxy/__main__.py" timestamp="1592861667195">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="/trainlocal" timestamp="1593115671001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/aim410/trainlocal.py" timestamp="1593115639495">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/datascience-cluster/pulumi/__main__.py" timestamp="1590089657365">
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="37" column="72" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="33" column="14" />
+      </file>
+      <file name="$USER_HOME$/conda3/lib/python3.7/site-packages/sagemaker/local/image.py" timestamp="1593044660704">
+        <mark key="[" line="551" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/bigbasket-notifier/slots.py" timestamp="1590784575633">
+        <mark key="'" line="29" column="16" />
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="19" />
+        <mark key="." line="72" column="18" />
+        <mark key="^" line="72" column="19" />
+      </file>
+      <file name="$USER_HOME$/prj/tproxy/control.py" timestamp="1592863945242">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/prj/localsage/local.py" timestamp="1593126842897">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/prj/aaca/aaca/src/ux.py" timestamp="1592518575381">
+        <mark key="[" line="266" column="24" />
+        <mark key="]" line="266" column="25" />
+        <mark key="." line="266" column="25" />
+        <mark key="^" line="268" column="9" />
+      </file>
+      <file name="$USER_HOME$/prj/bigbasket-notifier/check_if_delivery_slot_available.py" timestamp="1589559873665">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="90" column="44" />
+      </file>
+      <file name="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" timestamp="1590785724118">
+        <mark key="a" line="136" column="7" />
+        <mark key="'" line="46" column="37" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="n" line="88" column="13" />
+      </file>
+      <file name="$USER_HOME$/prj/bigbasket-notifier/postHttp.py" timestamp="1589679323167">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="15" column="57" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/awstmpcred/getmpcred.py" timestamp="1593043141176">
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/prj/datascience-cluster/pulumi/__main__.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/prj/datascience-cluster/pulumi/__main__.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/prj/datascience-cluster/pulumi/__main__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="16" column="17" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="66" column="29" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/prj/bigbasket-notifier/check_if_delivery_slot_available.py" />
+      <jump line="23" column="45" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="78" column="30" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="102" column="16" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="105" column="48" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="38" column="37" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="61" column="18" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="49" column="13" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="51" column="23" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="58" column="22" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="22" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="30" column="23" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="34" column="23" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="57" column="11" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="5" column="29" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="25" column="52" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/prj/bigbasket-notifier/slots.py" />
+      <jump line="40" column="35" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="60" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="63" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="67" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="73" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="77" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="84" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="114" column="9" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="98" column="15" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="87" column="13" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="88" column="43" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="89" column="57" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="90" column="38" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="93" column="13" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="94" column="57" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="95" column="31" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="97" column="16" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="109" column="32" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="116" column="43" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="117" column="20" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="132" column="24" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="140" column="20" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="30" column="459" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="39" column="77" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="42" column="39" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+      <jump line="45" column="37" filename="$USER_HOME$/prj/bigbasket-notifier/src/notifier.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3MuZW52aXJvblsnQVdTX1BST0ZJTEUnXSA9ICJMUC1Qb3dlclVzZXIiCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
+      <register name="/" type="4">
+        <text>session</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">b3MuZW52aXJvblsnQVdTX1BST0ZJTEUnXSA9ICJMUC1Qb3dlclVzZXIiCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQoc2FnZW1ha2VyLl9fdmVyc2lvbl9fKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text>s3.list_buckets()</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">czNyID0gYm90bzMucmVzb3VyY2UoInMzIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">czMubGlzdAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>string'
+)
+s3.delete_item(&quot;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBib3RvMyBpbXBvcnQgczMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2FnZW1ha2VyLnV0aWxzLnNldHVwX3BsYXRmb3JtKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">RVhQT1NFIDkwNTAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">UlVOIGdyZXAgLWkgc29ja3Nwb3J0IC9ldGMvdG9yL3RvcnJjLmRlZmF1bHQgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w!</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>session</last-search>
+      <last-offset />
+      <last-pattern>session</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts />
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>

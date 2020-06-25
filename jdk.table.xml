@@ -1,22 +1,24 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.7 (projects)" />
+      <name value="Python 3.7" />
       <type value="Python SDK" />
-      <version value="Python 3.7.4" />
-      <homePath value="$USER_HOME$/conda3/envs/projects/bin/python" />
+      <version value="Python 3.7.7" />
+      <homePath value="/usr/local/bin/python3.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7" type="simple" />
-            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/conda3/envs/projects/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1409754290" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/python-skeletons" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/2and3" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -26,29 +28,30 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (fipy)" />
+      <name value="Python 3.7 (aim410)" />
       <type value="Python SDK" />
-      <version value="Python 3.7.4" />
-      <homePath value="$USER_HOME$/apps/conda/envs/fipy/bin/python" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/conda3/bin/python3.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7" type="simple" />
-            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/apps/conda/envs/fipy/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1803583278" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/python-skeletons" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file:///home/data/apps/pycharm-community-anaconda-2019.2.1/helpers/typeshed/third_party/2and3" type="simple" />
+            <root url="file://$USER_HOME$/conda3/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/conda3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/conda3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/1884153629" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/projects/fipy" />
+      <additional />
     </jdk>
   </component>
 </application>
